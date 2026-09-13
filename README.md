@@ -346,7 +346,7 @@ investment-portfolio-analysis/
 │   └── benchmark_analysis.sql
 │
 ├── powerbi/
-│   └── investment_portfolio_dashboard.pbix
+│   └── investment portfolio analysis.pbix
 │
 └── images/
     ├── executive-overview.png
